@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Mac Taylor, I'm a Backend Engineer living in Kaohsiung, Taiwan.
+My name is Mac Taylor, I'm a <span style="text-decoration: underline;text-decoration-color: #7626f7;text-decoration-thickness: 15%;">Backend Engineer</span> living in Kaohsiung, Taiwan.
 
 I switch the lang I write in depending on the situation, such as dealing with data, I will using **Python**, and working Web Application I will using **Golang**, and create a game I will using **Unity C#**, and play the SoC(STM32/C51) I will using **C**, that's funny.
 
