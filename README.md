@@ -1,6 +1,6 @@
 ### Hi there 🖖
 
-My name is Mac Taylor, I'm a <p style="background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; transition: all .2s;">_ Developer</p> living in Tokyo, Japan.
+My name is Mac Taylor, I'm a **Backend Engineer** living in **Chiba, Japan**.
 
 My work is related to blockchain and Web3., currently I'm an amateur NLP researcher, and my main research area is Automatic Theorem Proving based on Transformer LM Architecture. (P.S.: I work with a low-level transformer, not a Chat-GPT).
 
