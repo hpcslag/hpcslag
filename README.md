@@ -6,12 +6,11 @@ My work is related to blockchain and Web3., currently I'm an amateur NLP researc
 
 I work in multilingual development and am familiar with Python, C#, C++, Java, Golang, Elixir, Rust, and Javascript, also hands-on with electronics (STM32, 8051) and handmake circuits layout, and interested in Mathematical Analysis, currently practice Lebesgue and Measure Theory.
 
-### Plan 2024
+### Plan 2025
 
  - Rust / Conf-ops system building
- - Starting a new life in Japan
  - Learning Japanese -> N3, Deutsch -> B1, French -> A2, Prepare IELTS
  - Busy with work and Conference (COSCUP)
  - Keep building our new developer geek community at Kaohsiung
  - NLP / Mathematical Language Processing -> IEEE Journal Submission / Manuscript
- - Find a good keyboard that friendly to VIM
+ - Regaining passion*
